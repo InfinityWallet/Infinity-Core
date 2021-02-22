@@ -3,7 +3,9 @@
 [![Actions Status](https://github.com/InfinityWallet/infinity-core/workflows/CI/badge.svg)](https://github.com/InfinityWallet/infinity-core/actions)
 [![Version](https://img.shields.io/npm/v/@infinitywallet/core)](https://www.npmjs.com/package/@infinitywallet/core)
 
-In-depth documentation on Infinity is available at [infinitycrypto.com](https://infinitycrypto.com/docs).
+
+You can find some documentation here at [InfinityProtocol Github Readme](https://github.com/InfinityWallet/InfinityProtocol) and there will be more in-depth documentation and api documentation coming soon to [infinitycrypto.com](https://infinitycrypto.com).
+
 
 The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@infinitywallet/core@latest/).
 
