@@ -7,7 +7,7 @@
 You can find some documentation here at [InfinityProtocol Github Readme](https://github.com/InfinityWallet/InfinityProtocol) and there will be more in-depth documentation and api documentation coming soon to [infinitycrypto.com](https://infinitycrypto.com).
 
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@infinitywallet/core@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@infinitywallet/infinity-core@latest/).
 
 # Local Development
 
