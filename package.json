@@ -1,18 +1,19 @@
 {
-  "name": "@infinitywallet/core",
+  "name": "@infinitycrypto/core",
   "description": "🎛 Core contracts for the Infinity protocol",
   "version": "1.0.1",
   "homepage": "https://infinitycrypto.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/InfinityWallet/infinity-core"
+    "url": "https://github.com/InfinityWallet/Infinity-Core"
   },
   "keywords": [
     "infinity",
     "ethereum",
     "bsc",
     "core",
-    "infinitycrypto"
+    "infinitycrypto",
+    "infinity protocol"
   ],
   "files": [
     "contracts",
