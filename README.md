@@ -1,4 +1,4 @@
-# Infinity
+# Infinity Core
 
 [![Actions Status](https://github.com/InfinityWallet/infinity-core/workflows/CI/badge.svg)](https://github.com/InfinityWallet/infinity-core/actions)
 [![Version](https://img.shields.io/npm/v/@infinitywallet/core)](https://www.npmjs.com/package/@infinitywallet/core)
