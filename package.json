@@ -1,7 +1,7 @@
 {
   "name": "@infinitywallet/infinity-core",
-  "description": "🎛 Core contracts for the Infinity protocol",
-  "version": "1.0.0",
+  "description": "Core contracts for the Infinity protocol",
+  "version": "1.0.1",
   "homepage": "https://infinitycrypto.com",
   "repository": {
     "type": "git",
